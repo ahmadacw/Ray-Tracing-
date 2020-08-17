@@ -1,0 +1,4 @@
+This is a simple ray tracer, it takes an input text file which describes the scene and output a png image of the calculated scene.
+to run the program:-
+  1.download the jar file.
+  2. when in the right folder in CMD write the following command java -jar RayTracer.jar
