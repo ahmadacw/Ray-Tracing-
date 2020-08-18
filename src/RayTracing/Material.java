@@ -1,4 +1,3 @@
-package RayTracing;
 
 public class Material {
 Vector diff;

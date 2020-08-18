@@ -1,4 +1,3 @@
-package RayTracing;
 
 
 import java.awt.Transparency;

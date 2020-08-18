@@ -1,4 +1,3 @@
-package RayTracing;
 
 public class Plane  extends items{
 	Vector norm;

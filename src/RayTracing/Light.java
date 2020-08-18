@@ -1,5 +1,4 @@
 
-package RayTracing;
 public class Light {
 	Vector p; //position 
 	Vector rgb;

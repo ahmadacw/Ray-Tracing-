@@ -1,4 +1,3 @@
-package RayTracing;
 
 public class Sphere extends items{
 	Vector center;

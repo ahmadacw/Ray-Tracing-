@@ -1,4 +1,3 @@
-package RayTracing;
 
 public class Camera {
 	Vector pos, towards, up, right, p1;

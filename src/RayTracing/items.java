@@ -1,4 +1,3 @@
-package RayTracing;
 
 public abstract class items {
 	Material texture; // the material of the object

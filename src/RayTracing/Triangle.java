@@ -1,4 +1,3 @@
-package RayTracing;
 
 public class Triangle extends items{
 Vector T_1,T_2,T_3,norm;

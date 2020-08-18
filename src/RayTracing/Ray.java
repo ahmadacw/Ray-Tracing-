@@ -1,4 +1,3 @@
-package RayTracing;
 public class Ray {
 		
 		Vector p0; 
